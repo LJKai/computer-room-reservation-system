@@ -1,0 +1,6 @@
+﻿  Student.cpp
+C:\Users\liujiakai\Desktop\code\机房预约系统\机房预约系统\globalFile.h(1,1): warning C4828: 文件包含在偏移 0xfb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Teacher.cpp
+C:\Users\liujiakai\Desktop\code\机房预约系统\机房预约系统\globalFile.h(1,1): warning C4828: 文件包含在偏移 0xfb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\liujiakai\Desktop\code\机房预约系统\x64\Debug\机房预约系统.exe
